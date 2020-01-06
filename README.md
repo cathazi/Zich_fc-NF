@@ -10,6 +10,5 @@ Catharina Zich, Nicola Johnstone, Michael Lührs, Stephen Lisk, Simone PW Haller
 
 # Getting started
 1. Download or clone this repository to your computer
-2. Ensure that you have a recent MatLab and access to the Signal Processing Toolbox and Wavelet Toolbox
-
+2. Ensure that you have a recent MatLab and access to SPM and the SPM Extensions
 # Contents
