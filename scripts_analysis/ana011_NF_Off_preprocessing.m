@@ -1,5 +1,5 @@
 % 25/06/16
-% fmri preprocessing script after dicom import
+% fmri preprocessing script
 % before start: 
 % 1. create FCNF folder, containing the following folders: data, DICOM, scripts_FCNF
 % 2. copy the folder from the RT PC in DICOM folder
